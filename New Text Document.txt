@@ -1,0 +1,10 @@
+git config --global --unset user.name
+git config --global --unset user.email
+
+
+git config --global user.name " somasankar"
+git config --global user.email " somasankarnukala@gmail.com"
+
+git remote add origin https://github.com/somasankar-github/meals.git
+
+git push -u origin master
